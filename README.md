@@ -31,4 +31,4 @@ This application was primarily built as an academic project under the guidance o
 ####TODO
 - Implement chat windows between clients
 - Overlay chat connction with possible real-time audio/video collaboration
-
+- Add compatibility with Python 3.
